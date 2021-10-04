@@ -5,18 +5,66 @@ button {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  color: black;
+  color: rgb(102, 102, 102);
 }
 
-html {
+html,
+button {
   font-size: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  scrollbar-width: none;
 }
 
 body {
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: rgb(255, 192, 69);
-  overflow: hidden;
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+body::webkit-scrollbar {
+  display: none;
+}
+
+/* Variables */
+/* Font weight */
+.bold {
+  font-weight: 700;
+}
+.eBold {
+  font-weight: 800;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.ai-c {
+  align-items: center;
+}
+.jc-c {
+  justify-content: center;
+}
+.cursor-d {
+  cursor: default;
+}
+
+/* Colors */
+.yellow {
+  color: rgb(255, 192, 69);
+}
+.orange {
+  color: rgb(255, 164, 58);
+}
+.lightGray {
+  color: rgb(241, 241, 241);
+}
+.gray {
+  color: rgb(196, 196, 196);
+}
+.darkGray {
+  color: rgb(102, 102, 102);
 }
