@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/do-done/static/css/main.5b18b9cf.chunk.css",
+    "main.js": "/do-done/static/js/main.baba4835.chunk.js",
+    "main.js.map": "/do-done/static/js/main.baba4835.chunk.js.map",
+    "runtime-main.js": "/do-done/static/js/runtime-main.5cb08149.js",
+    "runtime-main.js.map": "/do-done/static/js/runtime-main.5cb08149.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/do-done/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.dd79f294.chunk.js": "/do-done/static/js/2.dd79f294.chunk.js",
+    "static/js/2.dd79f294.chunk.js.map": "/do-done/static/js/2.dd79f294.chunk.js.map",
+    "index.html": "/do-done/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/do-done/static/css/2.8cebfa1f.chunk.css.map",
+    "static/css/main.5b18b9cf.chunk.css.map": "/do-done/static/css/main.5b18b9cf.chunk.css.map",
+    "static/js/2.dd79f294.chunk.js.LICENSE.txt": "/do-done/static/js/2.dd79f294.chunk.js.LICENSE.txt",
+    "static/media/background-asset-1.9baef511.png": "/do-done/static/media/background-asset-1.9baef511.png",
+    "static/media/background-asset-2.87b95d49.png": "/do-done/static/media/background-asset-2.87b95d49.png",
+    "static/media/login-background.e1823959.jpg": "/do-done/static/media/login-background.e1823959.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb08149.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.dd79f294.chunk.js",
+    "static/css/main.5b18b9cf.chunk.css",
+    "static/js/main.baba4835.chunk.js"
+  ]
+}
